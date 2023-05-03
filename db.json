@@ -1,0 +1,73 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "emails": [
+    {
+      "id": "abc@example.com",
+      "channelId": "channel1"
+    },
+    {
+      "id": "def@example.com",
+      "channelId": "channel2"
+    }
+  ],
+  "channels": [
+    {
+      "id": "channel1",
+      "courses": ["coures1", "coures2", "coures3"]
+    },
+    {
+      "id": "channel2",
+      "courses": ["coures4", "coures5", "coures6"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
